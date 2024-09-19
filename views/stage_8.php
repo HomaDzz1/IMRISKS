@@ -4,7 +4,7 @@
             <div class="menu-back-button-inner" title="Вернуться назад" onClick="LoadStartPage()"></div>
         </div>
         <div class="menu-header-text">
-            <div class="menu-header-text-inner">ОПРЕДЕЛЕНИЕ КОНТРМЕР И ВАРИАНТОВ ОБРАБОТКИ РИСКОВ</div>
+            <div class="menu-header-text-inner">СВЯЗЬ КОНТРМЕР И ВАРИАНТОВ ОБРАБОТКИ РИСКОВ</div>
         </div>
         <div class="menu-project-options-button">
             <div class="menu-project-options-button-inner" title="Открыть настройки проекта" onClick="OpenProjectOptions('<?= $projectId; ?>')"></div>
